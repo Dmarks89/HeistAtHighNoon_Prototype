@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\Movment.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\assets\UI\Hearts\PNG\health_bar\info.txt" />
     <None Include="Assets\assets\western-fps-2d\README.txt" />
   </ItemGroup>
   <ItemGroup>

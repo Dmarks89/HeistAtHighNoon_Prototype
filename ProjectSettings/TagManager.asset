@@ -50,3 +50,6 @@ TagManager:
   - name: OtherColliders
     uniqueID: 526912471
     locked: 0
+  - name: UI
+    uniqueID: 3249827097
+    locked: 0
